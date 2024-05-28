@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Ccwc": {
+      "commandName": "Project",
+      "commandLineArgs": "--help -c -l -w ./Resources/test.txt"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
